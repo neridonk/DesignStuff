@@ -4,7 +4,7 @@
 
 <a href="https://gradienta.io/?ref=producthunt">Abstract gradients</a>
 
-<a href="https://www.producthunt.com/posts/get-waves"> waves background generator</a
+<a href="https://www.producthunt.com/posts/get-waves"> waves background generator</a>
   
 Usefull Non Design
 <a href="https://www.indiehackers.com/">Sideproject Forum</a>
