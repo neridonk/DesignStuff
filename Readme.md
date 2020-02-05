@@ -13,7 +13,9 @@
   
     
 Infographics
+
 <a href="https://www.visme.co/"> Visme</a>
+<a href="https://infograph.venngage.com/">Venngage</a>
   
 Usefull Non Design
 <a href="https://www.indiehackers.com/">Sideproject Forum</a>
