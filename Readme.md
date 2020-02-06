@@ -25,6 +25,7 @@ Usefull Non Design
 
 morpishm 
 <img src="https://caphe.sfo2.cdn.digitaloceanspaces.com/assets/images/neumorphism-ui-elements-for-sketch.jpg" />
+<a href="https://speckyboy.com/neumorphism-code-snippets/"> CodePen snip </a>
 btn :
 
     box-shadow: -3px -3px 7px #d4d4d4b2, 3px 3px 5px rgba(130, 130, 130, 0.945);
