@@ -20,3 +20,18 @@ Infographics
 Usefull Non Design
 <a href="https://www.indiehackers.com/">Sideproject Forum</a>
 <a href="https://codersrank.io/?utm_source=producthunt.com&utm_medium=referral&utm_campaign=producthunt&ref=producthunt"> Skill showset</a>
+
+
+
+morpishm 
+
+btn :
+
+    box-shadow: -3px -3px 7px #d4d4d4b2, 3px 3px 5px rgba(130, 130, 130, 0.945);
+    background: linear-gradient(140deg, rgb(255, 255, 255) 0%, rgb(250, 250, 250) 35%, rgb(237, 237, 237) 100%);
+    
+ card
+ 
+     box-shadow: -3px -3px 7px #d4d4d4b2, 3px 3px 5px rgba(130, 130, 130, 0.945);
+    background: linear-gradient(140deg, rgb(255, 255, 255) 0%, rgb(250, 250, 250) 35%, rgb(241, 241, 241) 100%);
+   
